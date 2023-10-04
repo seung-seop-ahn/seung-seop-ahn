@@ -74,7 +74,6 @@ I use PARA as a basic framework and use GTD within PARA's Project items. Also, I
 │               └── todo
 │                   ├── <define job>
 │                   ├── <check if it's possible>
-│                   ├── <check if it's possible>
 │                   ├── <follow up delegated jobs>
 │                   └── <keep in remind by using calendar>
 ├── area
