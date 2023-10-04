@@ -65,21 +65,18 @@ I use PARA as a basic framework and use GTD within PARA's Project items. Also, I
 └── project
 │   └── <project name>
 │       ├── document
-│       │   └── <project plans and documentaion>
+│       │   └── <project plans and documentation>
 │       ├── reference
 │       ├── someday
 │       ├── trash
-│       ├── delegate
-│       │   ├── <follow up delegated jobs>
-│       │   └── <keep in remind by using calendar>
-│       └── daily-scrum
+│       └── scrum
 │           └── <date>
-│               ├── todo
-│               │   └── <define job>
-│               │   └── <check if it's possible>
-│               └── next
-│                   ├── <what to do after all stuff is done>
-│                   └── <stuff that are not done>
+│               └── todo
+│                   ├── <define job>
+│                   ├── <check if it's possible>
+│                   ├── <check if it's possible>
+│                   ├── <follow up delegated jobs>
+│                   └── <keep in remind by using calendar>
 ├── area
 ├── resource
 ├── archive
