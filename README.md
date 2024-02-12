@@ -1,4 +1,6 @@
-# I am \_\_\_.
+# 👋 Hi! My name is Kevin. 👋
+
+## I am \_\_\_.
 
 I am a developer who focuses on maximizing efficiency in the product development process, actively pursuing automation technologies and productivity enhancement strategies, and possessing a strong passion for bolstering team collaboration.
 
