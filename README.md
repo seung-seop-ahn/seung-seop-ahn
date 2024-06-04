@@ -24,3 +24,13 @@ I am a developer who focuses on maximizing efficiency in the product development
 - DevRel
 - PM (Product Manager)
 - PO (Product Owner)
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/seung-seop-ahn"
+    width="600"
+    height="120"
+  />
+</a>
+  
