@@ -1,4 +1,4 @@
-Hey there! I’m Kevin – a backend developer who writes code like poetry (well… sometimes it compiles on the first try).
+Hey there! I’m Kevin – a software engineer who writes code like poetry (well… sometimes it compiles on the first try).
 <br>
 Born in Korea 🇰🇷, coding from New Zealand 🇳🇿, dreaming in TypeScript and Java.
 <br><br>
