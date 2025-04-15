@@ -19,3 +19,5 @@ When I’m not coding, I’m probably:
 	•	Wondering if “just one more refactor” is a trap (spoiler: it is)
 <br><br>
 Ping me if you’re into thoughtful code, good coffee, and side projects with questionable roadmaps.
+<br><br>
+<!-- 🔗 [Check out my portfolio](https://your-portfolio-url.com) -->
