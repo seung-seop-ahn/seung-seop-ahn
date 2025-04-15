@@ -9,6 +9,8 @@ Born in Korea 🇰🇷, coding from New Zealand 🇳🇿, dreaming in TypeScript
 📦 I love clean architecture, beautiful APIs, and databases that don’t lock everything for fun.
 <br>
 🧠 INFJ brain + dev life = quiet chaos, but always thoughtful solutions.
+<br>
+💛 A softie for dogs — and especially for my little sunshine, eppunnii.
 <br><br>
 When I’m not coding, I’m probably:
 <br><br>
